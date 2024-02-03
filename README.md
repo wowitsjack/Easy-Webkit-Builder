@@ -13,7 +13,7 @@ Welcome to **Easy-Webkit-Builder**! This tool is designed to simplify the proces
 
 ## Prerequisites 📋
 
-The script should automagtically grab these! 💡
+The script should automagically grab these! 💡
 - Python 3
 - Pip 3
 - Expect
