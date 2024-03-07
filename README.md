@@ -30,8 +30,12 @@ Don't worry if you don't have these installed; the script will attempt to instal
 2. Navigate to the cloned directory:
    ```bash
    cd Easy-Webkit-Builder
+   ```  
+3. Collect the deps:
+   ```bash
+   ./deps.sh
    ```
-3. Run the script:
+4. Run the script:
    ```bash
    ./easy_webkit_builder.sh
    ```
